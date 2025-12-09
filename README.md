@@ -18,15 +18,6 @@ This project is a full implementation of the classic **Checkers (Draughts)** gam
 
 ---
 
-## 🧩 Project Structure
-Checkers Game/
-│── include/
-│── src/
-│── resources/
-
-
----
-
 ## 🛠️ Technologies Used
 
 - C++  
